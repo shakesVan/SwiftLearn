@@ -1,2 +1,3 @@
 # SwiftLearn
-简单的总结了下学习swift的要点
+简单的总结了下学习swift的要点，持续更新中……
+建议先看代码，再去看md和xmind文件
